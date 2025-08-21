@@ -9,7 +9,7 @@
 ### 🖼️ Скриншот
 
 *Вставьте сюда скриншот вашего проекта*
-`![Скриншот PAGE X](https://github.com/AndyClashbit/PAGE-X/blob/main/screen/1gif.gif)`
+`![Скриншот PAGE X](https://github.com/AndyClashbit/PAGE-X/blob/main/screen/1png.png)`
 
 ---
 
