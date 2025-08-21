@@ -44,7 +44,7 @@
 
 /* BACKGROUND STYLES - Moved to #background for correct application */
 #background {
-  background: url("https://wallpaperaccess.com/download/stars-17494") center center;
+  background: url("https://wallpaperaccess.com/download/stars-17509") center center;
   background-size: cover; /* Cover the entire screen */
   animation: moveBackground 1000s linear infinite; /* Removed 'alternate' */
 }
