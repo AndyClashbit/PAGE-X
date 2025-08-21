@@ -1,0 +1,20 @@
+- name: Spotify
+  url: https://open.spotify.com
+- name: SoundCloud
+  url: https://soundcloud.com
+- name: Bandcamp
+  url: https://bandcamp.com
+- name: Apple Music
+  url: https://music.apple.com
+- name: Shazam
+  url: https://www.shazam.com
+- name: Deezer
+  url: https://www.deezer.com
+- name: Last.fm
+  url: https://www.last.fm
+- name: Ableton
+  url: https://www.ableton.com
+- name: Logic Pro
+  url: https://www.apple.com/logic-pro/
+- name: GarageBand
+  url: https://www.apple.com/mac/garageband/ 

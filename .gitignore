@@ -1,0 +1,135 @@
+# Dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage directory used by tools like istanbul
+coverage/
+*.lcov
+
+# nyc test coverage
+.nyc_output
+
+# Grunt intermediate storage (https://gruntjs.com/creating-plugins#storing-task-files)
+.grunt
+
+# Bower dependency directory (https://bower.io/)
+bower_components
+
+# node-waf configuration
+.lock-wscript
+
+# Compiled binary addons (https://nodejs.org/api/addons.html)
+build/Release
+
+# Dependency directories
+jspm_packages/
+
+# TypeScript v1 declaration files
+typings/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Microbundle cache
+.rpt2_cache/
+.rts2_cache_cjs/
+.rts2_cache_es/
+.rts2_cache_umd/
+
+# Optional REPL history
+.node_repl_history
+
+# Output of 'npm pack'
+*.tgz
+
+# Yarn Integrity file
+.yarn-integrity
+
+# dotenv environment variables file
+.env
+.env.test
+.env.production
+
+# parcel-bundler cache (https://parceljs.org/)
+.cache
+.parcel-cache
+
+# Next.js build output
+.next
+
+# Nuxt.js build / generate output
+.nuxt
+dist
+
+# Gatsby files
+.cache/
+public
+
+# Storybook build outputs
+.out
+.storybook-out
+
+# Temporary folders
+tmp/
+temp/
+
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db 
+GEMINI.md
+docs/АНАЛИЗ_ГОРЯЧИХ_КЛАВИШ.md
+docs/АНАЛИЗ_ПРОЕКТА.md
+docs/АНАЛИЗ_ICON_LOADER.md
+docs/АНАЛИЗ_SEARCH_BAR.md
+docs/АНАЛИЗ_SOLAR_SYSTEM.md
+docs/АНАЛИЗ_TABS_CONTAINER.md
+docs/ИТОГОВЫЙ_АНАЛИЗ_ПРОЕКТА.md
+docs/РЕКОМЕНДАЦИИ_ПО_УЛУЧШЕНИЮ.md
+docs/ТЕКУЩИЙ_АНАЛИЗ_ПРОЕКТА.md
+docs/ICON_LOADER_INTEGRATION.md
+docs/installation.md
+docs/LIQUID_GLASS_EFFECT.md
+docs/NODEJS_SETUP.md
+docs/SOLAR_SYSTEM_INTEGRATION.md
+docs/TESTING_ICONS.md
+docs/TESTING_SOLAR_SYSTEM.md
+docs/THEME_SELECTION.md
+docs/usage.md
+docs/WEATHER_SETUP.md
+src/assets/solar.png

@@ -1,0 +1,15 @@
+services:
+  app:
+    container_name: page-x-dev
+    build:
+      context: .
+      dockerfile: Dockerfile.dev
+    ports:
+      - "3001:3001"
+    volumes:
+      # Mount source code for hot-reloading
+      # The node_modules directory inside the container will be used
+      - .:/app
+      - /app/node_modules
+    # Explicitly set the command to run the dev server
+    command: npm run dev -- --host

@@ -1,0 +1,18 @@
+/* Background 3 - Entertainment */
+body[data-tab="entertainment"] #background {
+    background: linear-gradient(225deg, 
+        #282828 0%, 
+        #b16286 25%, 
+        #d3869b 50%, 
+        #d79921 75%, 
+        #fabd2f 100%
+    );
+    background-size: 350% 350%;
+    animation: gradientShift 18s ease infinite;
+}
+
+@keyframes gradientShift {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+} 

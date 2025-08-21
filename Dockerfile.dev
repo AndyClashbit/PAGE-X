@@ -1,0 +1,22 @@
+# Use a specific Node.js version
+FROM node:18-alpine
+
+# Set the working directory
+WORKDIR /app
+
+# Copy package.json and package-lock.json
+COPY package*.json ./
+
+# Install all dependencies, including devDependencies
+RUN npm install
+
+# Copy the rest of the application code
+# This is done to have the initial code in the image,
+# but it will be overlaid by the volume mount.
+COPY . .
+
+# Expose the Vite port
+EXPOSE 3001
+
+# The command to run the dev server will be in docker-compose.yaml
+CMD ["npm", "run", "dev"]

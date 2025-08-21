@@ -1,0 +1,34 @@
+- name: Stack Overflow
+  url: https://stackoverflow.com
+- name: GitHub
+  url: https://github.com
+- name: CodePen
+  url: https://codepen.io
+- name: MDN Web Docs
+  url: https://developer.mozilla.org
+- name: DevDocs
+  url: https://devdocs.io
+- name: Can I Use
+  url: https://caniuse.com
+- name: npm
+  url: https://www.npmjs.com
+- name: VS Code
+  url: https://code.visualstudio.com
+- name: GitLab
+  url: https://gitlab.com
+- name: Bitbucket
+  url: https://bitbucket.org
+- name: Docker Hub
+  url: https://hub.docker.com
+- name: AWS
+  url: https://aws.amazon.com
+- name: Google Cloud
+  url: https://cloud.google.com
+- name: Azure
+  url: https://azure.microsoft.com
+- name: Heroku
+  url: https://heroku.com
+- name: Vercel
+  url: https://vercel.com
+- name: Netlify
+  url: https://netlify.com

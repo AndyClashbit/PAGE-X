@@ -1,0 +1,54 @@
+- name: BBC
+  url: https://bbc.com
+- name: CNN
+  url: https://cnn.com
+- name: Reuters
+  url: https://reuters.com
+- name: The Guardian
+  url: https://theguardian.com
+- name: TechCrunch
+  url: https://techcrunch.com
+- name: Ars Technica
+  url: https://arstechnica.com
+- name: Hacker News
+  url: https://news.ycombinator.com
+- name: Product Hunt
+  url: https://producthunt.com
+- name: The Verge
+  url: https://theverge.com
+- name: Wired
+  url: https://wired.com
+- name: Engadget
+  url: https://engadget.com
+- name: Mashable
+  url: https://mashable.com
+- name: Gizmodo
+  url: https://gizmodo.com
+- name: VentureBeat
+  url: https://venturebeat.com
+- name: Recode
+  url: https://recode.net
+- name: 9to5Mac
+  url: https://9to5mac.com
+- name: Android Central
+  url: https://androidcentral.com
+- name: XDA Developers
+  url: https://xda-developers.com
+- name: CNET
+  url: https://cnet.com
+- name: ZDNet
+  url: https://zdnet.com
+- name: Slashdot
+  url: https://slashdot.org
+- name: Lifehacker
+  url: https://lifehacker.com
+- name: PCMag
+  url: https://pcmag.com
+- name: Tom's Hardware
+  url: https://tomshardware.com
+- name: Ars Technica
+  url: https://arstechnica.com
+- name: The Next Web
+  url: https://thenextweb.com
+- name: Engadget
+  url: https://engadget.com

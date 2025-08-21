@@ -1,0 +1,45 @@
+- name: GitHub Copilot
+  url: https://github.com/features/copilot
+- name: Tabnine
+  url: https://www.tabnine.com/
+- name: JetBrains AI Assistant
+  url: https://www.jetbrains.com/ai/
+- name: Gemini Code Assist
+  url: https://cloud.google.com/gemini-code-assist
+
+- name: Adobe Photoshop (AI)
+  url: https://www.adobe.com/products/photoshop/ai.html
+- name: Luminar Neo
+  url: https://skylum.com/luminar-neo
+- name: Midjourney
+  url: https://www.midjourney.com/
+- name: Topaz Labs (Photo AI)
+  url: https://www.topazlabs.com/topaz-photo-ai
+
+- name: Synthesia
+  url: https://www.synthesia.io/
+- name: RunwayML
+  url: https://runwayml.com/
+- name: Descript
+  url: https://www.descript.com/
+- name: Topaz Labs (Video AI)
+  url: https://www.topazlabs.com/topaz-video-ai
+
+- name: ChatGPT
+  url: https://chat.openai.com/
+- name: deepseek
+  url: https://deepseek.com/
+- name: Claude
+  url: https://claude.ai/
+- name: Perplexity AI
+  url: https://www.perplexity.ai/
+- name: Bing Chat
+  url: https://www.bing.com/chat
+- name: YouChat 
+  url: https://you.com/chat
+- name: Jasper
+  url: https://www.jasper.ai/
+- name: Copy.ai
+  url: https://www.copy.ai/
+- name: Writesonic
+  url: https://writesonic.com/

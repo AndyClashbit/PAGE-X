@@ -1,0 +1,18 @@
+/* Background 1 - Social */
+body[data-tab="social"] #background {
+    background: linear-gradient(135deg, 
+        #282828 0%, 
+        #3c3836 25%, 
+        #504945 50%, 
+        #665c54 75%, 
+        #7c6f64 100%
+    );
+    background-size: 400% 400%;
+    animation: gradientShift 20s ease infinite;
+}
+
+@keyframes gradientShift {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+} 

@@ -1,0 +1,7 @@
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- Background Circle -->
+    <circle cx="128" cy="128" r="120" fill="#3c3836"/>
+
+    <!-- Letter X -->
+    <path d="M82 82 L174 174 M174 82 L82 174" stroke="#fabd2f" stroke-width="32" stroke-linecap="round"/>
+</svg>

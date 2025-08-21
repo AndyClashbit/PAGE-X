@@ -1,0 +1,29 @@
+- name: SORTIR
+  url: https://andyclashbit.ru/
+  favicon: https://andyclashbit.ru/app.svg
+- name: Google Drive
+  url: https://drive.google.com
+- name: Notion
+  url: https://notion.so
+- name: Trello
+  url: https://trello.com
+- name: Slack
+  url: https://slack.com
+- name: Zoom
+  url: https://zoom.us
+- name: Dropbox
+  url: https://dropbox.com
+- name: OneDrive
+  url: https://onedrive.live.com
+- name: Evernote
+  url: https://evernote.com
+- name: Asana
+  url: https://asana.com
+- name: Monday
+  url: https://monday.com
+- name: Jira
+  url: https://atlassian.com/software/jira
+- name: Confluence
+  url: https://atlassian.com/software/confluence
+- name: Dashmaster 2k
+  url: https://dashmaster2k.com/

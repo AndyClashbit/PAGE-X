@@ -1,0 +1,71 @@
+/* LIQUID GLASS STYLES - Core effect classes */
+
+.liquidGlass-wrapper {
+  position: relative;
+  display: flex;
+  font-weight: 600;
+  overflow: hidden;
+  color: black; /* Default text color for contrast */
+  cursor: pointer;
+  box-shadow: 0 6px 6px rgba(0, 0, 0, 0.2), 0 0 20px rgba(0, 0, 0, 0.1);
+  transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 2.2);
+}
+
+.liquidGlass-effect {
+  position: absolute;
+  z-index: 0;
+  inset: 0;
+  backdrop-filter: blur(3px);
+  filter: url(#glass-distortion);
+  overflow: hidden;
+  isolation: isolate;
+}
+
+.liquidGlass-tint {
+  z-index: 1;
+  position: absolute;
+  inset: 0;
+  background: rgba(255, 255, 255, 0.25);
+}
+
+.liquidGlass-shine {
+  position: absolute;
+  inset: 0;
+  z-index: 2;
+  overflow: hidden;
+  box-shadow: inset 1px 1px 1px 0 rgba(255, 255, 255, 0.5),
+    inset -1px -1px 1px 1px rgba(255, 255, 255, 0.5);
+}
+
+.liquidGlass-text {
+  z-index: 3;
+  /* font-size and color will be inherited or set by the component's base styles */
+}
+
+/* BACKGROUND STYLES - Moved to #background for correct application */
+#background {
+  background: url("https://wallpaperaccess.com/download/stars-17494") center center;
+  background-size: cover; /* Cover the entire screen */
+  animation: moveBackground 1000s linear infinite; /* Removed 'alternate' */
+}
+
+@keyframes moveBackground {
+  from {
+    background-position: 100% 0%;
+  }
+  to {
+        background-position: 0% 500%; /* Move downwards continuously */
+  }
+}
+
+/* Overrides for elements when liquidGlass-wrapper is applied */
+.search-provider.liquidGlass-wrapper,
+.tab-button.liquidGlass-wrapper,
+.pagination-button.liquidGlass-wrapper,
+.link-card.liquidGlass-wrapper {
+    background: transparent !important;
+    border: none !important;
+    box-shadow: none !important;
+    backdrop-filter: none !important;
+    -webkit-backdrop-filter: none !important;
+}

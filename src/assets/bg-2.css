@@ -1,0 +1,18 @@
+/* Background 2 - Work */
+body[data-tab="work"] #background {
+    background: linear-gradient(45deg, 
+        #282828 0%, 
+        #458588 25%, 
+        #689d6a 50%, 
+        #83a598 75%, 
+        #8ec07c 100%
+    );
+    background-size: 300% 300%;
+    animation: gradientShift 15s ease infinite;
+}
+
+@keyframes gradientShift {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+} 

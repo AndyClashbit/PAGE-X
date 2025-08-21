@@ -1,0 +1,30 @@
+- name: Figma
+  url: https://figma.com
+- name: Miro
+  url: https://miro.com
+- name: Canva
+  url: https://canva.com
+- name: Photoshop
+  url: https://www.adobe.com/products/photoshop.html
+- name: Illustrator
+  url: https://www.adobe.com/products/illustrator.html
+- name: Behance
+  url: https://behance.net
+- name: Dribbble
+  url: https://dribbble.com
+- name: Unsplash
+  url: https://unsplash.com
+- name: Pixabay
+  url: https://pixabay.com
+- name: Giphy
+  url: https://giphy.com
+- name: Pinterest
+  url: https://pinterest.com
+- name: DeviantArt
+  url: https://deviantart.com
+- name: Adobe Premiere
+  url: https://www.adobe.com/products/premiere.html
+- name: After Effects
+  url: https://www.adobe.com/products/aftereffects.html
+- name: DaVinci Resolve
+  url: https://www.blackmagicdesign.com/products/davinciresolve/
