@@ -8,8 +8,12 @@
 
 ### 🖼️ Скриншот
 
-*Вставьте сюда скриншот вашего проекта*
-<img src="https://github.com/AndyClashbit/PAGE-X/blob/main/screen/1gif.gif" alt="Demo GIF" width="400"/>
+
+<p align="center">
+  <a href="https://github.com/AndyClashbit/AndyClashbit">
+    <img src="https://github.com/AndyClashbit/PAGE-X/blob/main/screen/1gif.gif" alt="Demo GIF" width="600"/>
+  </a>
+</p>
 
 ---
 
